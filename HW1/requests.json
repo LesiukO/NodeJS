@@ -1,0 +1,16 @@
+{
+    "logs": [
+        {
+            "status": "OK",
+            "method": "GET",
+            "url": "/",
+            "time": 1584975534630
+        },
+        {
+            "status": "OK",
+            "method": "GET",
+            "url": "/favicon.ico",
+            "time": 1584975534712
+        }
+    ]
+}
